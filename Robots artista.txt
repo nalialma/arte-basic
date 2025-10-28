@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://carlosartista.com/sitemap.xml
+
+# Permitir imágenes de obras
+Allow: /images/
+Allow: /catalogo/
+Allow: /exposiciones/
